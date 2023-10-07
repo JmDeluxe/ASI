@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-HelloAaA
-=======
-HelloASDASDASDASDA
->>>>>>> ab939abd43fa56d9a2017bf65d09c61819c985a1
+ASDADASD
