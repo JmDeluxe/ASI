@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-asdasdasdas
-=======
-asdasdasfasfasfs
->>>>>>> 9664ab2ad7c8f13ad9750c253e88fc0e5f13c99a
