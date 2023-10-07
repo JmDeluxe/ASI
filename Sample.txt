@@ -1,13 +1,3 @@
 <<<<<<< .merge_file_QZ0oJB
 <<<<<<< HEAD
-HiAAAAAA
-=======
-<<<<<<< .merge_file_NJbmON
-HELLO
-=======
-Hi
->>>>>>> .merge_file_WYiEcH
->>>>>>> 054ea4e56ea641a4808a3d066dc62d63ffe277c2
-=======
-ASDASDASDAD
->>>>>>> .merge_file_bct5Ml
+
