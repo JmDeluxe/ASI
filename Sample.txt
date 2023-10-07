@@ -1,5 +1,1 @@
-<<<<<<< .merge_file_NJbmON
-HELLO
-=======
-Hi
->>>>>>> .merge_file_WYiEcH
+ASDASDASDAD
